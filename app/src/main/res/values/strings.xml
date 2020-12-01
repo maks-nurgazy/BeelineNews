@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BeelineNews</string>
+    <string name="news_title">Cyber Monday phone deals: Big savings on Samsung Galaxy S20, iPhone 11, Google Pixel and Moto Razr - CNET</string>
+    <string name="news_description">Looking for a new phone? There are some great deals on Samsung\'s Galaxy 5G lineup, the iPhone 11, the OnePlus 8 Pro and more.</string>
+    <string name="article_author">Associated Press</string>
+    <string name="publish_date">2020-11-30</string>
+    <string name="article_content">President-elect Joe Biden and his transition team announced on Monday several nominees and appointments for the incoming administration\'s top economic posts.r\nThe transition team confirmed CNBC\'s ear</string>
+    <string name="upgrade_to_paid_plan">Developer accounts are limited to a max of 100 results.Please upgrade to a paid plan if you need more results.</string>
+</resources>
